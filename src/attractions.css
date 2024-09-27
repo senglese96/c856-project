@@ -1,0 +1,36 @@
+.attractions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 85em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.attractions-section {
+    width: 25em;
+    height: 25em;
+}
+
+.attractions-section > h2 {
+    text-align: center;
+    font-size: 16pt;
+}
+
+.attraction-image {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.attractions-content {
+    border: solid;
+    border-radius: 1px;
+    border-width: 1px;
+    border-color: #1d3088;
+}
+
+.attractions-content > p {
+    padding: 10px;
+}

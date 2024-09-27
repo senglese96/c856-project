@@ -1,0 +1,28 @@
+.contact-us {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 70em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact-us-item {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+
+.contact-us-item > input, .contact-us-item > textarea {
+    width: 30em;
+    height: 40px;
+    font-size: 16pt;
+}
+
+.contact-us-item > label, .contact-us-item > input {
+    display: block;
+}
+
+#question {
+    height: 135px;
+}
