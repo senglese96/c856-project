@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/c856-project/static/css/main.b6a85ced.css",
+    "main.js": "/c856-project/static/js/main.da1add8d.js",
+    "static/media/Tropic-Fantasy.ttf": "/c856-project/static/media/Tropic-Fantasy.c2a1d406d3445b1bd56c.ttf",
+    "static/media/Angel-Lemona_Demo.ttf": "/c856-project/static/media/Angel-Lemona_Demo.2aed872cd1709e5d889b.ttf",
+    "index.html": "/c856-project/index.html",
+    "main.b6a85ced.css.map": "/c856-project/static/css/main.b6a85ced.css.map",
+    "main.da1add8d.js.map": "/c856-project/static/js/main.da1add8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6a85ced.css",
+    "static/js/main.da1add8d.js"
+  ]
+}
