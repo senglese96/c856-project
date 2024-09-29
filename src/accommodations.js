@@ -12,7 +12,7 @@ export default function Accommodations() {
                 All types of lodging are strictly regulated and regularly inspected by the Tanitian government.
             </Collapse>
             <Collapse isExpanded={false} title={'Dining'}>
-                Taniti currently has 10 restaurants: five serve mostly local fish and rice, three serve American-style meals, and two serve Pan-Asian cuisine.
+                Taniti currently has 10 restaurants. Five of them serve mostly local fish and rice, three serve American-style meals, and two serve Pan-Asian cuisine.
                 Alongside the restaurants, Taniti has two supermarkets, two smaller grocery stores, and one convenience store that is open 24 hours a day. 
             </Collapse>
             <Collapse isExpanded={false} title={'Getting Around the Island'}>

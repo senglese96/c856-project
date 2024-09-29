@@ -49,7 +49,7 @@ export default function Attractions() {
                         <p>
                             The lush raiforests of Taniti offer plenty of excitement for any intrepid
                             tourists. There are many hiking trails through the forest, along
-                            with a few popular ziplinging spots. Tourists looking to hike through the
+                            with a few popular ziplining spots. Tourists looking to hike through the
                             forest should prepare plenty of bug repellant. 
                         </p>
                     </div>
@@ -59,7 +59,7 @@ export default function Attractions() {
                     <div className='attractions-content'>
                         <img src='palm-trees-golf.jpg' className='attraction-image'/>
                         <p>
-                            While still under construction, within the next year a Nine-hole Golf Course
+                            While still under construction, within the next year a nine-hole golf course
                             will be opening up right near Merriton Landing. Given the climate, 
                             the course will be operational all year long.
                         </p>
